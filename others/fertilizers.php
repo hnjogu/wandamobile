@@ -1,5 +1,5 @@
-<div class="thumbnail">
-    <div class="row carousel-holder">
+
+    <!--div class="row carousel-holder">
 
                 <div class="col-md-12">
                     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -10,13 +10,13 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img class="slide-image" src="assets/slides/fertilizers/plantmate4.jpg" alt="">
+                                <img class="slide-image" src="assets/slides/fertilizers/plantmate4.png" width="100%" height="200px" alt="">
                             </div>
                             <div class="item">
-                                <img class="slide-image" src="assets/slides/fertilizers/plantmate3.png" alt="">
+                                <img class="slide-image" src="assets/slides/fertilizers/plantmate3.png"  width="100%" alt="">
                             </div>
                             <div class="item">
-                                <img class="slide-image" src="assets/slides/fertilizers/plantmate7.png" alt="">
+                                <img class="slide-image" src="assets/slides/fertilizers/plantmate7.png" width="100%" alt="">
                             </div>
                         </div>
                         <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
@@ -25,24 +25,15 @@
                         <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
                             <span class="glyphicon glyphicon-chevron-right"></span>
                         </a>
+                        <h4><a href="#">Fertilizers</a></h4>
                     </div>
                 </div>
 
-    </div>
+    </div-->
+            <div class="col-lg-12 col-md-12 col-xs-12 thumb">
+                <a class="thumbnail" href="products.php">Fertilizers
+                    <img class="img-responsive" src="assets/slides/fertilizers/plantmate7.png" alt="">
+                </a>
+            </div>
 
-    <div class="caption">
-            <h4><a href="#">Fertilizers</a></h4>
-            <p>Any material of natural or synthetic origin that is applied to soils to supply one or more plant nutrients for plant growth.<a class="btn-info" target="_blank" href="#">Read more</a></p>
 
-    </div>
-    <div class="ratings">
-        <p class="pull-right">15 reviews</p>
-            <p>
-                    <span class="glyphicon glyphicon-star"></span>
-                    <span class="glyphicon glyphicon-star"></span>
-                    <span class="glyphicon glyphicon-star"></span>
-                    <span class="glyphicon glyphicon-star"></span>
-                    <span class="glyphicon glyphicon-star"></span>
-            </p>
-    </div>
-</div>

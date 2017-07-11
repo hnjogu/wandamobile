@@ -1,5 +1,5 @@
-<div class="thumbnail">
-    <div class="row carousel-holder">
+
+    <!--div class="row carousel-holder">
 
         <div class="col-md-12">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -25,22 +25,14 @@
                         <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
                             <span class="glyphicon glyphicon-chevron-right"></span>
                         </a>
+                        <h4><a href="#">Seeds</a></h4>
             </div>
         </div>
 
-    </div>
-    <div class="caption">
-        <h4><a href="#">Seeds</a></h4>
-            <p>A seed is an embryonic plant enclosed in a protective outer covering.<a class="btn-info" target="_blank" href="#">Read more</p>
-    </div>
-    <div class="ratings">
-        <p class="pull-right">31 reviews</p>
-            <p>
-                <span class="glyphicon glyphicon-star"></span>
-                <span class="glyphicon glyphicon-star"></span>
-                <span class="glyphicon glyphicon-star"></span>
-                <span class="glyphicon glyphicon-star"></span>
-                <span class="glyphicon glyphicon-star-empty"></span>
-            </p>
-    </div>
- </div>
+    </div-->
+
+            <div class="col-lg-12 col-md-12 col-xs-12 thumb">
+                <a class="thumbnail" href="#">Seeds
+                    <img class="img-responsive" src="assets/slides/seeds/seeds3.jpg" alt="">
+                </a>
+            </div>

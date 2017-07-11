@@ -1,5 +1,5 @@
-<div class="thumbnail">
-              <div class="row carousel-holder">
+
+    <!--div class="row carousel-holder">
 
                 <div class="col-md-12">
                     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -10,13 +10,13 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img class="slide-image" src="assets/slides/fertilizers" alt="">
+                                <img class="slide-image" src="assets/slides/cropnutrition/cropnutrition1.png" width="100%" height="200px" alt="">
                             </div>
                             <div class="item">
-                                <img class="slide-image" src="assets/slides/fertilizers" alt="">
+                                <img class="slide-image" src="assets/slides/cropnutrition/cropnutrition2.png"  width="100%" alt="">
                             </div>
                             <div class="item">
-                                <img class="slide-image" src="assets/slides/fertilizers" alt="">
+                                <img class="slide-image" src="assets/slides/cropnutrition/cropnutrition3.png"  width="100%" alt="">
                             </div>
                         </div>
                         <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
@@ -25,22 +25,14 @@
                         <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
                             <span class="glyphicon glyphicon-chevron-right"></span>
                         </a>
+                        <h4><a href="#">Crop Nutrition</a></h4>
                     </div>
                 </div>
 
-    </div>
-    <div class="caption">
-        <h4><a href="#">Crop Nutrition</a></h4>
-            <p>Crops require a balanced diet of essential nutrients throughout their growth cycle.<a class="btn-info" target="_blank" href="#">Read more</a></p>
-    </div>
-    <div class="ratings">
-        <p class="pull-right">6 reviews</p>
-            <p>
-                <span class="glyphicon glyphicon-star"></span>
-                <span class="glyphicon glyphicon-star"></span>
-                <span class="glyphicon glyphicon-star"></span>
-                <span class="glyphicon glyphicon-star-empty"></span>
-                <span class="glyphicon glyphicon-star-empty"></span>
-            </p>
-    </div>
-</div>
+    </div-->
+        <div class="col-lg-12 col-md-12 col-xs-12 thumb">
+            <a class="thumbnail" href="products.php">Crop Nutrition
+                <img class="img-responsive" src="http://placehold.it/400x300" alt="">
+            </a>
+        </div>
+

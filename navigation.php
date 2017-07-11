@@ -26,7 +26,7 @@
                         <a href="products.php">Products and Services</a>
                     </li>
                     <li>
-                        <a href="network.php">Network</a>
+                        <!--a href="network.php">Network</a-->
                     </li>
                       <li>
                         <a href="contact.php">Contact</a>
