@@ -1,0 +1,149 @@
+<div class="row">
+    <div class="col-md-12">
+		<div id="container">
+		<h1><center>OUR CURRENT PRODUCTS:</center></center></h1>
+
+		    <div id="navigation">
+			    <p><strong>Our Services</strong></p>
+				    <ul>
+				      <li><a href="#">service1</a></li>
+				      <li><a href="#">services2</a></li>
+				      <li><a href="#">service3</a></li>
+				      <li><a href="#">services4</a></li>
+				      <li><a href="#">service5</a></li>
+				      <li><a href="#">services6</a></li>
+				    </ul>
+			</div>
+		    <div id="extra">
+		    <p><strong>More stuff here.</strong></p>
+			    <p>sit malesuada lacus pellus parturpiscing. Pellenterdumat maecenatoque cras a magna nibh et quis diam ames et. Laoremvolutpat ac dolor eget eget temper lacus vestibus velit lacus venean. Magnaipsum tellus morbi leo aliquat nulla convallis pellentesque.
+			    </p>
+		    </div>
+			<div id="wrapper">
+			    <div id="content">
+				    <p><strong>1. Soil Fertility:</strong></p>
+					    <p>
+					        Kenyan farmland soils are badly depleted. Under continuous farming, the land is not allowed to rejuvenate. The problem is worsened by nutrient mining without replenishing soil nutrients. The farmers’ challenge is either to produce more food and more income from less and less land with rapidly deteriorating soils, or to turn drylands into productive farms. So, the right technologies must include those which can restore and improve soil health and fertility. 
+                            <P>
+                                <p>Solution:</p>
+                                    <ul>
+                                         <li>Plantmate Bio Organic Fertilizer by Wanda Organic</li>
+                                    	
+                                    </ul>
+                           </P> <br>
+                              
+
+					    </p>
+						    <div class="col-sm-4 col-lg-4 col-md-4 pull-left">
+	                                <?php include "products/products_one.php"; ?>
+	                        </div>
+	                        <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right">
+	                                <?php include "products/main_products.php"; ?>
+	                        </div>
+
+			    </div>
+                
+
+
+                    <!--div class="col-lg-4">
+						<h4>Float image in paragraph</h4>
+						<img src="img/dummies/dummy-1.jpg" alt="" class="align-right" />
+						<p>
+							 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non mod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et eabum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet
+						</p>
+					</div-->
+
+			    <div class="col-lg-4">
+				        <p><strong>2. Seeds</strong></p>
+				        <img src="img/dummies/dummy-1.jpg" alt="" class="align-right" />
+						    <p>
+						        The use of good quality seed is a prerequisite for the satisfactory production of a good quality crop. Good seed must be genetically pure, free from other crop seeds, free from weed seeds, free from designated disease, have high germination and vigour and have optimum moisture content.
+	                        </P>
+	                            <p>Solution:</p>
+	                                <ol>
+	                                    <li>Maize Varieties by Pannar Seed</li>
+	                                    <li>Horticulture Varieties by Royal Seeds</li>   
+	                                	
+	                                </ol>
+	                                   
+	                           </P> <br>
+						    </p>
+		                        <div class="col-sm-4 col-lg-4 col-md-4 pull-left">
+		                                <?php include "products/products_two.php"; ?>
+		                        </div>
+				</div>
+
+
+			    <div class="col-sm-4">
+				        <p><strong>2. Seeds</strong></p>
+				        <img src="img/dummies/dummy-1.jpg" alt="" class="align-right" />
+						    <p>
+						        The use of good quality seed is a prerequisite for the satisfactory production of a good quality crop. Good seed must be genetically pure, free from other crop seeds, free from weed seeds, free from designated disease, have high germination and vigour and have optimum moisture content.
+	                        </P>
+	                            <p>Solution:</p>
+	                                <ol>
+	                                    <li>Maize Varieties by Pannar Seed</li>
+	                                    <li>Horticulture Varieties by Royal Seeds</li>   
+	                                	
+	                                </ol>
+	                                   
+	                           </P> <br>
+						    </p>
+		                        <div class="col-sm-4">
+		                                <?php include "products/products_two.php"; ?>
+		                        </div>
+				</div>
+
+			    <div id="content">
+				    <p><strong>2. Seeds</strong></p>
+					    <p>
+					        The use of good quality seed is a prerequisite for the satisfactory production of a good quality crop. Good seed must be genetically pure, free from other crop seeds, free from weed seeds, free from designated disease, have high germination and vigour and have optimum moisture content.
+                        </P>
+                            <p>Solution:</p>
+                                <ol>
+                                    <li>Maize Varieties by Pannar Seed</li>
+                                    <li>Horticulture Varieties by Royal Seeds</li>   
+                                	
+                                </ol>
+                                   
+                           </P> <br>
+					    </p>
+	                        <div class="col-sm-4 col-lg-4 col-md-4 pull-left">
+	                                <?php include "products/products_two.php"; ?>
+	                        </div>
+
+			    </div>
+			    <div id="content">
+				    <p><strong>3. Crop Nutrition</strong></p>
+					    <p>
+					        Getting your crop nutrition spot on is essential for maximising yields. Too little nutrition will reduce the crops' yield potential, while too much fertiliser can impact production and profitability. So, careful monitoring and management of nutrient levels is important to ensure yield potential is reached, without inefficient fertiliser application. 
+                        </P>
+                            <p>Solution:</p>
+                                <ol>
+                                    <li>Maize Varieties by Pannar Seed</li>
+                                    <li>Horticulture Varieties by Royal Seeds</li>   
+                                	
+                                </ol>
+                                   
+                           </P> <br>
+					    </p>
+	                        <div class="col-sm-4 col-lg-4 col-md-4 pull-left">
+	                                <?php include "products/products_two.php"; ?>
+	                        </div>
+
+			    </div>
+
+
+
+			</div>
+			
+		    <div id="extra1">
+		    <p><strong>More stuff here.</strong></p>
+			    <p>sit malesuada lacus pellus parturpiscing. Pellenterdumat maecenatoque cras a magna nibh et quis diam ames et. Laoremvolutpat ac dolor eget eget temper lacus vestibus velit lacus venean. Magnaipsum tellus morbi leo aliquat nulla convallis pellentesque.
+			    </p>
+		    </div>
+		</div>
+	</div>
+
+</div>
+

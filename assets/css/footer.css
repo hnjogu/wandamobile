@@ -1,0 +1,122 @@
+footer {
+    background-color: #007405;
+    color: white;
+    padding-top: 20px;
+}
+
+map-container {
+    height: 240px;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+footer .row {
+    margin: 0 85px;
+}
+
+footer .footer-copyright {
+    background-color: #10222e;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+footer .footer-copyright p {
+    margin: 10px;
+    color: #ccc;
+}
+
+footer .container {
+    width: auto;
+}
+
+footer ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+footer h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+footer a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+footer a:hover,
+footer a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+footer .social-networks {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 38px;
+}
+
+footer .fa {
+    font-size: 30px;
+    margin-right: 15px;
+    margin-left: 20px;
+    background-color: white;
+    color: #182c39;
+    border-radius: 51%;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 31px;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+footer .fa-facebook:hover {
+    color: #2b55ff;
+}
+
+footer .fa-facebook:focus {
+    color: #2b55ff;
+}
+
+footer .fa-google-plus:hover {
+    color: red;
+}
+
+footer .fa-google-plus:focus {
+    color: red;
+}
+
+footer .fa-twitter:hover {
+    color: #00aced;
+}
+
+footer .fa-twitter:focus {
+    color: #00aced;
+}
+
+@media screen and (max-width: 767px) {
+    #myFooter {
+        text-align: center;
+    }
+    #myFooter .row {
+        margin: 0;
+    }
+}
+
+
+
+/* CSS used for positioning the footers at the bottom of the page. */
+/* You can remove this. */
+
+
+footer{
+   flex: 0 0 auto;
+   -webkit-flex: 0 0 auto;
+}
