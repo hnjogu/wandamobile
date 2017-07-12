@@ -29,3 +29,13 @@
 	font-weight:bold;
 	font-size:1.4em;
 }
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}

@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="static/images/favicon/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="assets/images/favicon/favicon.ico" type="image/x-icon"/>
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
     <title>Wanda Mobile</title>
     <!-- Bootstrap Core CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -16,6 +17,7 @@
     <link href="assets/css/footer.css" rel="stylesheet">
     <link href="assets/css/content.css" rel="stylesheet">
     <link href="assets/css/product.css" rel="stylesheet">
+    <link href="assets/css/scroll.css" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>

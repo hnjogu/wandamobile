@@ -104,10 +104,10 @@
                 </div>
 
                 <div class="col-sm-4 col-lg-4 col-md-4">
-                    <h4><a href="#">Our Team</a>
+                    <h4><a href="team.php">Our Team</a>
                     </h4>
                     <p>Each and everyone of our employees represent the spirit of our company,Our commitment and awereness on how Wanda Mobile works</p>
-                    <a class="btn btn-primary" target="_blank" href="#">Meet Our Team</a>
+                    <a class="btn btn-primary" target="_blank" href="team.php">Meet Our Team</a>
                 </div>
 
             </div>

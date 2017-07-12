@@ -32,7 +32,7 @@
     </div-->
             <div class="col-lg-12 col-md-12 col-xs-12 thumb">
                 <a class="thumbnail" href="products.php">Fertilizers
-                    <img class="img-responsive" src="assets/slides/fertilizers/plantmate7.png" alt="">
+                    <img class="img-responsive" src="assets/slides/fertilizers/plantmate7.png"  style="width:228px;height:228px; alt="">
                 </a>
             </div>
 

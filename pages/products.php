@@ -3,7 +3,7 @@
 		<div id="container">
 		<h1><center>OUR CURRENT PRODUCTS:</center></center></h1>
 
-		    <div id="navigation">
+		    <!--div id="navigation">
 			    <p><strong>Our Services</strong></p>
 				    <ul>
 				      <li><a href="#">service1</a></li>
@@ -13,7 +13,7 @@
 				      <li><a href="#">service5</a></li>
 				      <li><a href="#">services6</a></li>
 				    </ul>
-			</div>
+			</div-->
 		    <div id="extra">
 		    <p><strong>More stuff here.</strong></p>
 			    <p>sit malesuada lacus pellus parturpiscing. Pellenterdumat maecenatoque cras a magna nibh et quis diam ames et. Laoremvolutpat ac dolor eget eget temper lacus vestibus velit lacus venean. Magnaipsum tellus morbi leo aliquat nulla convallis pellentesque.
@@ -99,7 +99,7 @@
                 
                  <div class="col-lg-4">
 				        <p><strong>4. Crop Protection</strong></p>
-				        <img src="img/dummies/dummy-1.jpg" alt="" class="align-right" />
+				        <img src="img/dummies/dummy-1.jpg" alt="" class="align-left" />
 						    <p>
 						        This the science and practice of managing plant diseases, weeds and other pests (both vertebrate and invertebrate) that damage agricultural crops and forestry. Preventative tactics range from physical to biological to chemical in nature and good management is key in ensuring a successful harvest and subsequent seasons. 
 	                        </P>

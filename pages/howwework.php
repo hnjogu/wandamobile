@@ -1,13 +1,13 @@
 <div class="row">
     <div class="col-md-12">
 		<div id="container">
-		<div id="header"><h1>How We Work</h1></div>
+		<div id="header"><h1>Procedure of creating an account using our USSD System</h1></div>
 			<div id="wrapper">
 			    <div id="content">
-				    <p><strong>How Wanda Mobile Works .</strong></p>
-				         <h1>
-				               Wanda Mobile services farmers directly by inviting them to create an account with the company and transact against that. 
-				         </h1>
+				    <!--p><strong>How Wanda Mobile Works .</strong></p-->
+				         <!--h1>
+				              Procedure of creating an account using our USSD System 
+				         </h1-->
 					    <p>
 					           REGISTER: A Farmer is required to register for an account by:
 		                </p> 
@@ -44,6 +44,18 @@
 								  <li>Mpesa </li>
 								  <li>Cash at any of our shops</li>
 							</ol>
+						<p>
+							COLLECT:
+						</p>
+						<p>
+							Using the unique receipt number the goods can be collected at the designated shop or collection point (this is clarified at ordering stage). Once the receipt number is used the farmer (account holder) will get a confirmation SMS of the collection. Customer Care can be called immediately if there are any issues and farmers should not accept any damaged goods and immediately.
+						</p>
+						<p>
+							SUPPORT: 
+						</p>
+						<p>
+							Our Customer Care team will follow up to ensure that customers are satisfied with Wanda Mobile products and services. 
+						</p>	
 			    </div>
 			</div>
 			<!--div id="navigation">
@@ -53,18 +65,18 @@
 				      <li><a href="#">more</a></li>
 				    </ul>
 			</div-->
-		    <div id="extra">
+		    <!--div id="extra">
 		    <p><strong>CUSTOMER CARE SUPPORT:</strong></p>
 			    <p>
-			        Our Customer Care team will follow up to ensure that customers are satisfied with Wanda Mobile products and services.
+			        	    
 			    </p>
-		    </div>
-		    <div id="extra1">
+		    </div-->
+		    <!--div id="extra1">
 		    <p><strong>COLLECTION METHOD:</strong></p>
 			    <p>
 			        Using the unique receipt number the goods can be collected at the designated shop or collection point (this is clarified at ordering stage). Once the receipt number is used the farmer (account holder) will get a confirmation SMS of the collection. Customer Care can be called immediately if there are any issues and farmers should not accept any damaged goods and immediately.
 			    </p>
-		    </div>
+		    </div-->
 		</div>
 	</div>
 </div

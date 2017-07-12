@@ -10,8 +10,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Wanda mobile</a>
-                <img id="cspio-logo" src="assets/images/wandalogo.png">
+                <a class="navbar-brand" href="index.php">Wanda Mobile<img id="cspio-logo" src="assets/images/"></a>
+                
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -20,16 +20,16 @@
                         <!--a href="impact.php">Impact</a-->
                     </li>
                       <li>
-                        <a href="howwework.php">How we work</a>
+                        <a href="howwework.php">How We Work</a>
                     </li>
                     <li>
-                        <a href="products.php">Products and Services</a>
+                        <a href="products.php">Products And Services</a>
                     </li>
-                    <li>
-                        <!--a href="network.php">Network</a-->
-                    </li>
+                    <!--li>
+                        <a href="network.php">Network</a>
+                    </li-->
                       <li>
-                        <a href="contact.php">Contact</a>
+                        <a href="contact.php">Contacts</a>
                     </li>
                 </ul>
             </div>
