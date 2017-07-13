@@ -1,0 +1,37 @@
+/* --- Image allignment style --- */
+
+img.pull-left, .align-left{
+  float:left;
+  margin:0 15px 15px 0;
+}
+
+.widget img.pull-left {
+  float:left;
+  margin:0 15px 15px 0;
+}
+
+img.pull-right, .align-right {
+  float:right;
+  margin:0 0 15px 15px;
+}
+
+article img.pull-left, article .align-left{
+  float:left;
+  margin:5px 15px 15px 0;
+}
+
+article img.pull-right, article .align-right{
+  float:right;
+  margin:5px 0 15px 15px;
+}
+/*more image settings */
+img.gap-right {
+  margin-right: 10px; 
+}
+.img-holder {
+  position: relative;
+}
+.thumbnail img {
+    max-height: 100%;
+    max-width: 100%;
+}

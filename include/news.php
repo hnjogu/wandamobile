@@ -8,8 +8,6 @@
 
 			Add your news or other current info in this text window. This window uses an HTML IFrame and Javascript for the scrolling animation. 
 
-			<a href="news.htm">Sample Link</a>.
-
 			<br><br>
 
 					<span class="scroll-title-if">
@@ -17,8 +15,6 @@
 					</span>
 
 			Add your news or other current info in this text window. This window uses an HTML IFrame and Javascript for the scrolling animation. 
-
-			<a href="news.htm">Sample Link</a>.
 
 			<br><br>
 
@@ -28,8 +24,6 @@
 
 			Add your news or other current info in this text window. This window uses an HTML IFrame and Javascript for the scrolling animation. 
 
-			<a href="news.htm">Sample Link</a>.
-
 			<br><br>
 
 					<span class="scroll-title-if">
@@ -37,8 +31,6 @@
 					</span>
 
 			Add your news or other current info in this text window. This window uses an HTML IFrame and Javascript for the scrolling animation. 
-
-			<a href="news.htm">Sample Link</a>.
 
 			<br>
 

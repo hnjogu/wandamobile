@@ -37,7 +37,7 @@
             </div>
             <!-- Here we use the Google Embed API to show Google Maps. -->
             <!-- In order for this to work in your project you will need to generate a unique API key.  -->
-            <!--iframe id="map-container" frameborder="0" style="border:0"
+            <!-- iframe id="map-container" frameborder="0" style="border:0"
                 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJOwg_06VPwokRYv534QaPC8g&key=AIzaSyD3wUOj5wUL4hmyd1bmZ1IQfoIZFDpADNc" >
             </iframe-->
         <!--/div-AIzaSyD3wUOj5wUL4hmyd1bmZ1IQfoIZFDpADNc-->
@@ -57,12 +57,12 @@
 <!--other jquery reference -->
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/jquery.min.js"></script>
+<!--script src="assets/js/jquery.min.js"></script-->
 <!-- jQuery -->
 <script src="assets/js/jquery.js"></script>
 <script src="assets/js/scroll.js"></script>
 <!-- Bootstrap Core JavaScript -->
-<script src="assets/js/bootstrap.min.js"></script>
+<!--script src="assets/js/bootstrap.min.js"></script-->
 
 </body>
 

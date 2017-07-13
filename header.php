@@ -11,13 +11,16 @@
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
     <title>Wanda Mobile</title>
     <!-- Bootstrap Core CSS -->
+    <!--link href="assets/css/bootstrap.css" rel="stylesheet"-->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    
     <!-- Custom CSS -->
     <link href="assets/css/wandamobile.css" rel="stylesheet">
     <link href="assets/css/footer.css" rel="stylesheet">
     <link href="assets/css/content.css" rel="stylesheet">
-    <link href="assets/css/product.css" rel="stylesheet">
     <link href="assets/css/scroll.css" rel="stylesheet">
+    <link href="assets/css/img.css" rel="stylesheet">
+    <!--link href="assets/css/product.css" rel="stylesheet"-->
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>

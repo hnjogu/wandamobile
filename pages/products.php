@@ -73,7 +73,6 @@
 	                                </ol>
 	                                   
 	                           </P> <br>
-						    </p>
 		                        <div class="col-sm-4 col-lg-4 col-md-4 pull-left">
 		                                <?php include "products/products_two.php"; ?>
 		                        </div>
@@ -91,13 +90,12 @@
 	                                </ol>
 	                                   
 	                           </P> <br>
-						    </p>
 		                        <div class="col-sm-4 col-lg-4 col-md-4 pull-left">
 		                                <?php include "products/products_two.php"; ?>
 		                        </div>
 				</div>
                 
-                 <div class="col-lg-4">
+                <div class="col-lg-4">
 				        <p><strong>4. Crop Protection</strong></p>
 				        <img src="img/dummies/dummy-1.jpg" alt="" class="align-left" />
 						    <p>
@@ -113,7 +111,6 @@
 	                                </ol>
 	                                   
 	                           </P> <br>
-						    </p>
 		                        <div class="col-sm-4 col-lg-4 col-md-4 pull-left">
 		                                <?php include "products/products_two.php"; ?>
 		                        </div>
@@ -136,7 +133,6 @@
 	                                </ol>
 	                                   
 	                           </P> <br>
-						    </p>
 		                        <div class="col-sm-4">
 		                                <?php include "products/products_two.php"; ?>
 		                        </div>
@@ -147,9 +143,7 @@
 				        <img src="img/dummies/dummy-1.jpg" alt="" class="align-right" />
 						    <p>
 						        Our model services farmers directly and ensures after sales support through a dedicated customer service department accessed via a toll-free number (0800721750) or through the mobile application. Customer Care offers information on product use, manages customer feedback and account management to ensure customer satisfaction and retention.
-	                        </P>
-                                <br>
-						    </p>
+	                        </P><br>
 		                        <div class="col-sm-4 col-lg-4 col-md-4 pull-left">
 		                                <?php include "products/products_two.php"; ?>
 		                        </div>

@@ -86,6 +86,11 @@ sub {
 img {
   border: 0;
 }
+img.pull-left, .align-left{
+  float:left;
+  margin:0 15px 15px 0;
+}
+
 svg:not(:root) {
   overflow: hidden;
 }
@@ -4589,7 +4594,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color: #222;
+  background-color: #149c82;
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
