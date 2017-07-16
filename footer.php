@@ -42,9 +42,9 @@
             </iframe-->
         <!--/div-AIzaSyD3wUOj5wUL4hmyd1bmZ1IQfoIZFDpADNc-->
         <div class="social-networks">
-            <a href="https://twitter.com/Wanda_Mobile" class="twitter"><i class="fa fa-twitter"></i></a>
-            <a href="https://www.facebook.com/Wanda-Mobile-Ltd-313604699089122/?notif_t=page_admin&notif_id=1497858107302075" class="facebook"><i class="fa fa-facebook"></i></a>
-            <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+            <a href="https://twitter.com/WandaMobileLtd" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.facebook.com/Wanda-Mobile-Ltd-313604699089122/?notif_t=page_admin&notif_id=1497858107302075" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+            <a href="#" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
             <a href="mailto:info@wandamobile.org" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
         </div>
         <div class="footer-copyright">
@@ -55,15 +55,11 @@
 <!--/div-->
 <!-- /.container -->
 <!--other jquery reference -->
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<!--script src="assets/js/jquery.min.js"></script-->
-<!-- jQuery -->
 <script src="assets/js/jquery.js"></script>
-<script src="assets/js/scroll.js"></script>
-<!-- Bootstrap Core JavaScript -->
-<!--script src="assets/js/bootstrap.min.js"></script-->
-
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!--script src="assets/js/scroll.js"></script-->
+<!-- end of jQuery -->
 </body>
 
 </html>

@@ -54,7 +54,7 @@
 			            <div class="col-lg-4">
 			                <br>  
 			                </br>
-						        <img src="assets/img/dummies/dummy-1.jpg" alt="" class="img-responsive pull-right"/>
+						        <img src="assets/slides/howwework/howwework.png" alt="" class="img-responsive pull-right"/><br>
 									<p>
 										SUPPORT: 
 									</p>

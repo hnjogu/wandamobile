@@ -33,6 +33,6 @@
 
             <div class="col-lg-12 col-md-12 col-xs-12 thumb">
                 <a class="thumbnail" href="#">Seeds
-                    <img class="img-responsive" src="assets/slides/seeds/seeds3.jpg"  style="width:228px;height:228px; alt="">
+                    <img class="img-responsive" src="assets/slides/seeds/seeds.jpg"  style="width:228px;height:228px; alt="">
                 </a>
             </div>

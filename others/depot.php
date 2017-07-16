@@ -20,18 +20,10 @@
 							<div class="news_scroll-title">
 							    News and Updates<br>
 							</div>
-						<iframe name="NewsIFrame" src="include/news.ph" frameborder="0" scrolling="no"></iframe>
+						<iframe name="NewsIFrame" src="include/news.php" frameborder="0" scrolling="no"></iframe>
 					</div>
             <!-- END SCROLLING NEWS WINDOW SAMPLE -->
-		           
-				    <!--ol>
-					    <li>Animal Feeds:Are available in the digital shops</li>
-					    <li>Animal Nutrition</li>
-					    
-				    </ol--> 
 		        </div>
 		    </div>
     </div>
 </div> 
-
-		  

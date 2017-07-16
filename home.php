@@ -23,13 +23,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img class="slide-image" src="assets/slides/homeslide/wanda1.png" width="100%" height="200px" alt="">
+                                    <img class="slide-image" src="assets/slides/homeslide/homeslide.jpg" style="width:931px;height:528px; alt="" class="img-responsive">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="assets/slides/homeslide/wanda2.jpg" width="100%" alt="">
+                                    <img class="slide-image" src="assets/slides/homeslide/homeslide1.jpg" style="width:931px;height:328 alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="assets/slides/homeslide/wanda3.jpg" width="100%" alt="">
+                                    <img class="slide-image" src="assets/slides/homeslide/homeslide2.jpg" style="width:931px;height:528 alt="">
                                 </div>
                             </div>
                             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">

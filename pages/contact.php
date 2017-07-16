@@ -54,8 +54,9 @@
                 <h3><strong>OUR LOCATION </strong></h3>
                 <p>Head Office</p>
                 <p>4th Floor Metropolis (Crater), Mombasa Road</p>
-                <p><strong>ADDRESS :</strong> P.O Box 51323-00100, Nairobi, Kenya</p>
-                <p><strong>TEL. No, :</strong> 0800721750, +254 (0) 204343600</p>
+                <p><strong>Address :</strong> P.O Box 51323-00100, Nairobi, Kenya</p>
+                <p><strong>Tel.No :</strong> 0800721750, +254 (0) 204343600</p>
+                <p><strong>Office.No :</strong>+254 (0) 204343600</p>
                 <p><strong>Email:</strong> info@wandamobile.org</p>
                 <br />
             </div>              
