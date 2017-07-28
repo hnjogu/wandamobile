@@ -1,22 +1,53 @@
-// START SCRIPT
-
-
-var SNshow	= "yes"		// SHOW NEWS IFRAME
-
-
-
-   if (SNshow == "yes") {
-
-// START SCROLLING NEWS
-document.write('<div id="news_iframe_scroll">');
-document.write('<div class="news_scroll-title">');
-document.write('News and Updates<br>');
-document.write('</div>');
-document.write('<iframe name="NewsIFrame" src="include/news.php" frameborder="0" scrolling="no"></iframe>');
-document.write('</div>');
-// END SCROLLING NEWS
-
-
-}
-
-// END SCRIPT
+$(function() {
+       
+  //cache the ticker
+  var ticker = $("#ticker");
+           
+  //wrap dt:dd pairs in divs
+  ticker.children().filter("dt").each(function() {
+           
+    var dt = $(this),
+      container = $("<div>");
+   
+    dt.next().appendTo(container);
+    dt.prependTo(container);          
+    container.appendTo(ticker);
+  });
+                 
+  //hide the scrollbar
+  ticker.css("overflow", "hidden");
+         
+  //animator function
+  function animator(currentItem) {
+             
+    //work out new anim duration
+    var distance = currentItem.height(),
+    duration = (distance - Math.abs(parseInt(currentItem.css("marginTop")))) / 0.025;
+ 
+    //animate the first child of the ticker
+    currentItem.animate({ marginTop: -distance }, duration, "linear", function() {
+             
+      //move current item to the bottom     currentItem.appendTo(currentItem.parent()).css("marginTop", 0);
+ 
+    //recurse
+    animator(currentItem.parent().children(":first"));
+    }); 
+  };
+         
+  //start the ticker
+  animator(ticker.children(":first"));
+  //set mouseenter
+  ticker.mouseenter(function() {
+             
+    //stop current animation
+    ticker.children().stop();
+             
+  });
+           
+  //set mouseleave
+  ticker.mouseleave(function() {
+                     
+    //resume animation
+    animator(ticker.children(":first"));
+  });
+});

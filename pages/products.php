@@ -14,11 +14,11 @@
 				      <li><a href="#">services6</a></li>
 				    </ul>
 			</div-->
-		    <div id="extra">
+		    <!--div id="extra">
 		    <p><strong>More stuff here.</strong></p>
 			    <p>sit malesuada lacus pellus parturpiscing. Pellenterdumat maecenatoque cras a magna nibh et quis diam ames et. Laoremvolutpat ac dolor eget eget temper lacus vestibus velit lacus venean. Magnaipsum tellus morbi leo aliquat nulla convallis pellentesque.
 			    </p>
-		    </div>
+		    </div-->
 			<div id="wrapper">
 			    <div id="content">
 				    <p><strong>1. Soil Fertility:</strong></p>
@@ -120,7 +120,7 @@
 
 				<div class="col-lg-4">
 				        <p><strong>6. Customer Care </strong></p>
-				        <img src="assets/slides/products/animal_products/animal2.jpg" style="width:431px;height:200px; alt="" class="img-responsive pull-left" >
+				        <img src="assets/slides/products/team_customercare/customercare1.jpg" style="width:431px;height:200px; alt="" class="img-responsive pull-left" >
 						    <p>
 						        Our model services farmers directly and ensures after sales support through a dedicated customer service department accessed via a toll-free number (0800721750) or through the mobile application. Customer Care offers information on product use, manages customer feedback and account management to ensure customer satisfaction and retention.
 	                        </P><br>
@@ -142,8 +142,9 @@
 		<div class="col-md-12">
 		    <div id="container">	
 			    <div id="extra1">
-			    <p><strong>More stuff here.</strong></p>
-				    <p>sit malesuada lacus pellus parturpiscing. Pellenterdumat maecenatoque cras a magna nibh et quis diam ames et. Laoremvolutpat ac dolor eget eget temper lacus vestibus velit lacus venean. Magnaipsum tellus morbi leo aliquat nulla convallis pellentesque.
+			    <p><strong>Quote.</strong></p>
+				    <p>
+				    We Focus on what the customer wants, needs, and cares about our Customer.
 				    </p>
 			    </div>
 			</div>

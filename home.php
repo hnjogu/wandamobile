@@ -23,13 +23,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img class="slide-image" src="assets/slides/homeslide/homeslide.jpg" style="width:931px;height:528px; alt="" class="img-responsive">
+                                    <img class="slide-image" src="assets/slides/homeslide/homeslide.jpg" style="width:931px;height:528px"; alt="" class="img-responsive">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="assets/slides/homeslide/homeslide1.jpg" style="width:931px;height:328 alt="">
+                                    <img class="slide-image" src="assets/slides/homeslide/homeslide1.jpg" style="width:931px;height:328"; alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="assets/slides/homeslide/homeslide2.jpg" style="width:931px;height:528 alt="">
+                                    <img class="slide-image" src="assets/slides/homeslide/homeslide2.jpg" style="width:931px;height:528"; alt="">
                                 </div>
                             </div>
                             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
@@ -52,34 +52,6 @@
                 </div>
 
             </div>
-
-                <!--div class="col-sm-4 col-lg-4 col-md-4">
-                  <?php #include "others/fertilizers.php"; ?>
-                </div-->
-                 <!--div class="col-sm-4 col-lg-4 col-md-4">
-                               <?php #include "others/croprotation.php"; ?>
-                            </div-->
-               <!--div class="container-fluid">
-                    <p> 
-                        <div class="content">
-                            <div class="col-lg-4 col-md-4 col-xs-4 thumb">
-                                <?php #include "others/fertilizers.php"; ?>                    
-                            </div>
-                        </div>
-
-                           
-                        <div class="content">
-                            <div class="col-lg-4 col-md-4 col-xs-4 thumb">
-                                    <?php #include "others/cropprotection.php"; ?>
-                            </div>
-                        </div>
-                        <div class="content">
-                            <div class="col-lg-4 col-md-4 col-xs-4 thumb">
-                                <?php #include "others/seeds.php"; ?>
-                            </div>
-                        </div>
-                    </p>
-                </div-->
                 <div class="col-sm-4 col-lg-4 col-md-4">
                     <?php include "others/fertilizers.php"; ?> 
                 </div>

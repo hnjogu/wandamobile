@@ -4,3 +4,4 @@
   include 'pages/contact.php';
   include 'footer.php';
 ?>
+<?php include_once("include/analyticstracking.php") ?>

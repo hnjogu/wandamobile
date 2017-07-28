@@ -4,3 +4,4 @@
   include 'pages/impact.php';
   include 'footer.php';
 ?>
+<?php include_once("include/analyticstracking.php") ?>

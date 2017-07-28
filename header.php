@@ -20,6 +20,8 @@
     <link href="assets/css/content.css" rel="stylesheet">
     <link href="assets/css/scroll.css" rel="stylesheet">
     <link href="assets/css/img.css" rel="stylesheet">
+    <link href="assets/css/gallery.css" rel="stylesheet">
+    <!--link href="assets/css/google_maps.css" rel="stylesheet"-->
     <!--link href="assets/css/product.css" rel="stylesheet"-->
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -29,4 +31,4 @@
     <![endif]-->
 </head>
 <body>
-</html>
+

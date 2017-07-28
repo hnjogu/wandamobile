@@ -27,9 +27,9 @@
                     <li>
                         <a href="contact.php">Contacts</a>
                     </li>
-                    <!--li>
+                    <li>
                         <a href="network.php">Network</a>
-                    </li-->
+                    </li>
                     <!--li>
                         <a href="impact.php">Impact</a>
                     </li-->

@@ -1,83 +1,26 @@
-<div id="NewsDiv">
-    <div class="scroll-text-if">
-
-<!-- SCROLLER CONTENT STARTS HERE -->
-			<span class="scroll-title-if">
-			     News Scroller<br>
-			</span>
-
-			Add your news or other current info in this text window. This window uses an HTML IFrame and Javascript for the scrolling animation. 
-
-			<br><br>
-
-					<span class="scroll-title-if">
-					Article Title<br>
-					</span>
-
-			Add your news or other current info in this text window. This window uses an HTML IFrame and Javascript for the scrolling animation. 
-
-			<br><br>
-
-					<span class="scroll-title-if">
-					Article Three<br>
-					</span>
-
-			Add your news or other current info in this text window. This window uses an HTML IFrame and Javascript for the scrolling animation. 
-
-			<br><br>
-
-					<span class="scroll-title-if">
-					Article Four<br>
-					</span>
-
-			Add your news or other current info in this text window. This window uses an HTML IFrame and Javascript for the scrolling animation. 
-
-			<br>
-
-<!-- END SCROLLER CONTENT -->
-
-    </div>
-</div>
-
-
-<script type="text/javascript">
-
-
-		var startdelay 		= 2; 		// START SCROLLING DELAY IN SECONDS
-		var scrollspeed		= 1.1;		// ADJUST SCROLL SPEED
-		var scrollwind		= 1;		// FRAME START ADJUST
-		var speedjump		= 30;		// ADJUST SCROLL JUMPING = RANGE 20 TO 40
-		var nextdelay		= 0; 		// SECOND SCROLL DELAY IN SECONDS 0 = QUICKEST
-		var topspace		= "2px";	// TOP SPACING FIRST TIME SCROLLING
-		var frameheight		= 176;		// IF YOU RESIZE THE CSS HEIGHT, EDIT THIS HEIGHT TO MATCH
-
-
-		current = (scrollspeed);
-
-
-		function HeightData(){
-		AreaHeight=dataobj.offsetHeight
-		if (AreaHeight===0){
-		setTimeout("HeightData()",( startdelay * 1000 ))
-		}
-		else {
-		ScrollNewsDiv()function NewsScrollStart(){
-		dataobj=document.all? document.all.NewsDiv : document.getElementById("NewsDiv")
-		dataobj.style.top=topspace
-		setTimeout("HeightData()",( startdelay * 1000 ))
-		}
-
-		function ScrollNewsDiv(){
-		dataobj.style.top=scrollwind+'px';
-		scrollwind-=scrollspeed;
-		if (parseInt(dataobj.style.top)<AreaHeight*(-1)) {
-		dataobj.style.top=frameheight+'px';
-		scrollwind=frameheight;
-		setTimeout("ScrollNewsDiv()",( nextdelay * 1000 ))
-		}
-		else {
-		setTimeout("ScrollNewsDiv()",speedjump)
-		}}
-
-
-</script>
+   <dl id="ticker">
+	      <dt>Latest News</dt>
+	            <dd>
+	            	Dialling *809# and following the prompts
+					Calling the customer care department through the toll-free line 0800721750
+					Visit the nearest Wanda Mobile Shop
+					Visiting one of the Wanda Mobile Agents at any Collection Point
+					Through any Wanda Mobile Promoter (Sales or Animal Health Technician)
+	            </dd>
+	      <dt>News 2</dt>
+	            <dd>
+	            	No News
+	            </dd>
+	      <dt>News 3</dt>
+	            <dd>
+	            	No News
+	            </dd>
+	      <dt>News 4</dt>
+	            <dd>
+	            	No News
+	            </dd>
+	      <dt class="heading">More News</dt>
+	            <dd class="text">
+	            	No News
+	            </dd>    
+    </dl>
