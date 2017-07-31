@@ -8,7 +8,7 @@
             Leveraging mobile technology WM has taken these services closers to the farmers with a devolved hub and spoke model aimed at addressing last mile delivery gaps.
 		</P>
 
-		<P>
+		<!--P>
 		<ul>
           <p>WM aims to be a one stop shop for farmers providing:</p>
 					<li>Seeds</li>
@@ -22,5 +22,5 @@
 					<li>Capacity Building Services/ Trainings</li>
 					<li>Information (weather, markets & agronomic)</li>
 		</ul>
-		</p>
+		</p-->
 </div>

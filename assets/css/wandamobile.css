@@ -104,14 +104,44 @@ body {
     max-height: 440px;
 }
 /* slider */
-.carousel-holder {
+
+/*.carousel-holder {
     margin-bottom: 30px;
 }
 
 .carousel-control,
 .item {
     border-radius: 4px;
+} */
+
+
+/* You can change the height of the carousel by changing the height in the class below. It is set to 50% by default, but can be any height! */
+/* half carousel start here */ 
+.carousel {
+    height: 50%;
 }
+
+.item,
+.active,
+.carousel-inner {
+    height: 100%;
+}
+/* Background images are set within the HTML using inline CSS, not here */
+/* Home Page Carousel
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+ */
+
+/*ends */
 
 .caption {
     height: 130px;
@@ -121,15 +151,12 @@ body {
 .caption h4 {
     white-space: nowrap;
 }
-
-.thumbnail img {
-    width: 100%;
+.thumb {
+    margin-bottom: 30px;
 }
 
-.ratings {
-    padding-right: 10px;
-    padding-left: 10px;
-    color: #d17581;
+/*.thumbnail img {
+    width: 100%;
 }
 
 .thumbnail {
@@ -139,7 +166,7 @@ body {
 .thumbnail .caption-full {
     padding: 9px;
     color: #333;
-}
+}*/
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -937,4 +964,85 @@ div.mc-image {
    /* other css */
   #filters ul{
     padding-left:0px;
+}
+
+/* modal class */
+
+.modal {
+  overflow: inherit;
+  overflow-y: inherit;
+  text-align: center;
+  padding: 0;
+}
+
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.modal-dialog {
+  max-width: 500px;
+  padding: 0;
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.modal-content {
+
+  border: 0;
+  border-radius: 0;
+
+}
+
+.modal-header {
+  border: 0;
+  padding 0;
+  position: relative;
+}
+
+.modal-header .close {
+  margin: 0;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  width: 23px;
+  height: 23px;
+  border-radius: 23px;
+  background-color: #00aeef;
+  color: #ffe300;
+  font-size: 9px;
+  opacity: 1;
+  z-index: 10;
+}
+
+.modal-content p {
+  padding: 0 20px;
+}
+
+.modal-body {
+  padding: 0 0 10px 0;
+    height: 450px;
+    overflow: auto;
+} 
+
+
+/* modal class ends */
+/* SIDE BAR 
+.sidebar {
+    position: fixed;
+    height: 132px;
+    right: 0;
+    width: 24px;
+}
+*/
+.sidebar {
+   width: 45px;
+   height: 90px;
+   position: fixed;
+   left: 0px;
+   border: 1px solid black;
 }

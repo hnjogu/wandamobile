@@ -30,6 +30,9 @@
                     <li>
                         <a href="network.php">Network</a>
                     </li>
+                    <li>
+                        <a href="team.php">Meet Our Team</a>
+                    </li>
                     <!--li>
                         <a href="impact.php">Impact</a>
                     </li-->

@@ -52,16 +52,23 @@
         </div>
     </footer>
 </div>
-<!--/div-->
-<!-- /.container -->
+
 <!--other jquery reference -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
 <script src="assets/js/jquery.js"></script>
 <script src="assets/js/bootstrap.js"></script>
 <script src="assets/js/product.js"></script>
 <script src="assets/js/jquery.isotope.js"></script>
 <script src="assets/js/product.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="assets/js/scroll.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!--script src="assets/js/scroll.js"></script-->
+<script src="assets/js/latest.js"></script>
 <script src="assets/js/googlemaps.js"></script>
 <!-- end of jQuery -->
 </body>

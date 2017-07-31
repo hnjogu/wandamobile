@@ -51,3 +51,4 @@ $(function() {
     animator(ticker.children(":first"));
   });
 });
+

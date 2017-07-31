@@ -1,6 +1,13 @@
 <section class="page_section team" id="team"><!--main-section team-start-->
   <div class="container">
     <h2><center>Team</center></h2>
+    <div class="col-md-12">
+	    <div id="extra1" style="background-color: #0005ff;">
+	        <p>
+	        Each and everyone of our employees represent the spirit of our company,Our commitment and awereness on how Wanda Mobile works
+	        </p>
+	    </div>
+    </div>
     <!--h6>Lorem ipsum dolor sit amet, consectetur adipiscing.</h6-->
 
 <div class="member-area">
