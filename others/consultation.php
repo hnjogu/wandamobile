@@ -6,5 +6,5 @@
             </div-->
 
                 <a class="thumbnail" href="products.php">Consultation
-                     <img class="img-responsive" src="assets/slides/consultation/consultation1.jpg" alt="">
+                     <img class="img-responsive" src="assets/slides/consultation/consultation1.jpg" style="width:238px;height:150px;" alt="">
                 </a>

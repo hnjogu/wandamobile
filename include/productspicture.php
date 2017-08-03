@@ -4,31 +4,18 @@
     </div>
     
     <div>
-        <button class="btn btn-primary filter-button" data-filter="all">All Products</button>
-        <button class="btn btn-default filter-button" data-filter="soilfertility">Soil Fertility</button>
+        <!--button class="btn btn-primary filter-button" data-filter="all">All Products</button-->
+        <button class="btn btn-default filter-button" data-filter="seeds">Seeds</button>
         <button class="btn btn-default filter-button" data-filter="cropnutrition">Crop Nutrition</button>
         <button class="btn btn-default filter-button" data-filter="cropprotection">Crop Protection</button>
         <button class="btn btn-default filter-button" data-filter="animalnutrition">Animal Nutrition</button>
         <button class="btn btn-default filter-button" data-filter="fertilizers">Fertilizers</button>
-        <button class="btn btn-default filter-button" data-filter="seeds">Seeds</button>
+        <button class="btn btn-default filter-button" data-filter="soilfertility">Soil Fertility</button>
+        
     </div>
     <br/>
     
     <div class="row">
-        <div class="col-md-3 filter soilfertility">
-            <div class="each-item">
-                <img class="port-image" src="assets/slides/products/soil_fertility/soilfertilty.jpg" style="width:361px;height:180px";>
-                <div class="cap1">
-                    <h3>All Products</h3>
-                    <p>Our Products</p>
-                </div>
-                <div class="cap2">
-                    <p class="text-center">Visit</p>
-                </div>
-                
-            </div>
-            
-        </div>
         
         <div class="col-md-3 filter soilfertility">
             <div class="each-item">

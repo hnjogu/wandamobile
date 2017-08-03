@@ -1,7 +1,7 @@
-<!--section id="content"-->
-	<!--div class="container"-->
+<section id="content">
+	<div id="container">
 		<div class="row">
-		    <div id="container">
+		    <!--div id="container"-->
 			    <div class="col-md-6">
 					
 					<h1><center>OUR PROCESS:</center></center></h1>
@@ -62,8 +62,8 @@
 										Our Customer Care team will follow up to ensure that customers are satisfied with Wanda Mobile products and services. 
 									</p>
 			            </div>
-		    </div>		                    
+		    <!--/div-->		                    
 		</div>
-    <!--/div-->
-<!--/section-->
+    </div>
+</section>
 

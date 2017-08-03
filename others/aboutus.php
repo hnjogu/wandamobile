@@ -1,6 +1,6 @@
 <div class="content">
     <h4>
-        ABOUT WANDA MOBILE LIMITED: THE DIGITAL FARM SHOP
+       WANDA MOBILE LIMITED: THE DIGITAL FARM SHOP
     </h4>
         <p>
             Wanda Mobile (WM) was born out of Wanda Organic’s (WO) experience in servicing smallholder farmers in Kenya. The innovative distribution model managed by WM is based on direct feedback from the smallholders, and their expressed need for a package of services that recognize and respond to their circumstances. 

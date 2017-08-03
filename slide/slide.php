@@ -4,32 +4,32 @@
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <!--li data-target="#myCarousel" data-slide-to="2"></li-->
         </ol>
 
         <!-- Wrapper for Slides -->
         <div class="carousel-inner">
             <div class="item active">
                 <!-- Set the first background image using inline CSS below. -->
-                <img class="slide-image" src="assets/slides/homeslide/homeslide.jpg" style="width:931px;height:528px"; alt="" class="img-responsive">
+                <img class="slide-image" src="assets/slides/homeslide/homeslide21.jpg" style="width:9031px;height:528px"; alt="" class="img-responsive">
                 <div class="carousel-caption">
-                    <h2>Caption 1</h2>
+                    <h2>Digital shop</h2>
                 </div>
             </div>
             <div class="item">
                 <!-- Set the second background image using inline CSS below. -->
-                <img class="slide-image" src="assets/slides/homeslide/homeslide1.jpg" style="width:931px;height:328"; alt="">
+                <img class="slide-image" src="assets/slides/homeslide/homeslide3.png" style="width:9031px;height:328"; alt="">
                 <div class="carousel-caption">
-                    <h2>Caption 2</h2>
+                    <h2>Ordering Process</h2>
                 </div>
             </div>
-            <div class="item">
+            <!--div class="item"-->
                 <!-- Set the third background image using inline CSS below. -->
-                <img class="slide-image" src="assets/slides/homeslide/homeslide2.jpg" style="width:931px;height:528"; alt="">
+                <!--img class="slide-image" src="assets/slides/homeslide/test2.jpg" style="width:9031px;height:528";  alt="">
                 <div class="carousel-caption">
-                    <h2>Caption 3</h2>
+                    <h2></h2>
                 </div>
-            </div>
+            </div-->
         </div>
 
         <!-- Controls -->

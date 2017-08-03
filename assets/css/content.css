@@ -3,6 +3,7 @@ div#header{background-color:#299316;}
 div#header h1{height:80px;line-height:100px;margin:0;padding-left:200px;}
 div#container{text-align:left}
 div#content p{line-height:1.4}
+div#content1 p{line-height:1.4}
 div#navigation{background:#F6F0E0;}
 div#navigation ul{margin:13px 0; padding:0; list-style-type:none;}
 div#navigation li{margin-bottom:5px;}
@@ -10,6 +11,7 @@ div#extra{background:#CCC8B3;}
 div#extra1{background:#CCC8B3;}
 div#container{width:90%;margin:0 auto}
 div#content{float:left;width:600px}
+div#content1{width:600px;position: fixed}
 div#navigation{float:right;width:200px}
 div#extra{float:right;clear:right;width:200px}
 div#extra1{clear:both;width:100%}

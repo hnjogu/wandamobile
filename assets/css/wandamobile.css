@@ -7,6 +7,9 @@
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
+/* my top brand  */
+
+/*end of brand header*/
 .logo {
     float: left;
     margin-top: 8px;
@@ -96,6 +99,7 @@ body {
 }
 
 /*end of header sytle */
+/* slide show csss */
 
 .slide-image {
     /*width: 50%; */
@@ -103,32 +107,17 @@ body {
     height: 440px;
     max-height: 440px;
 }
-/* slider */
-
-/*.carousel-holder {
-    margin-bottom: 30px;
-}
-
-.carousel-control,
-.item {
-    border-radius: 4px;
-} */
-
-
-/* You can change the height of the carousel by changing the height in the class below. It is set to 50% by default, but can be any height! */
-/* half carousel start here */ 
 .carousel {
     height: 50%;
+    width:100%;
+    position: center;
 }
 
 .item,
 .active,
 .carousel-inner {
-    height: 100%;
+    height: 50%;
 }
-/* Background images are set within the HTML using inline CSS, not here */
-/* Home Page Carousel
-
 .fill {
     width: 100%;
     height: 100%;
@@ -138,8 +127,56 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+}
+.carousel-inner{
+  width:80%;
+  max-height: 200px !important;
+}
 
- */
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {}
+/* slider */
+
+.carousel-holder {
+    margin-bottom: 100px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 100000px; /* radius curve control*/
+} 
+.carousel-inner > .item { /*height control for carousel */
+    height: 442px;
+}
+
+.carousel-inner img {
+    margin: auto;
+}
+
+/* You can change the height of the carousel by changing the height in the class below. It is set to 50% by default, but can be any height! */
+/* half carousel start here */ 
+div.c-wrapper{
+    width: 80%; /* for example */
+    margin: auto;
+}
+
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+width: 100%; /* use this, or not */
+margin: auto;
+}
 
 /*ends */
 
@@ -153,6 +190,12 @@ body {
 }
 .thumb {
     margin-bottom: 30px;
+}
+ .thumbnail img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
 }
 
 /*.thumbnail img {
@@ -966,83 +1009,9 @@ div.mc-image {
     padding-left:0px;
 }
 
-/* modal class */
-
-.modal {
-  overflow: inherit;
-  overflow-y: inherit;
-  text-align: center;
-  padding: 0;
-}
-
-.modal:before {
-  content: '';
-  display: inline-block;
-  height: 100%;
-  vertical-align: middle;
-  margin-right: -4px;
-}
-
-.modal-dialog {
-  max-width: 500px;
-  padding: 0;
-  display: inline-block;
-  text-align: left;
-  vertical-align: middle;
-}
-
-.modal-content {
-
-  border: 0;
-  border-radius: 0;
-
-}
-
-.modal-header {
-  border: 0;
-  padding 0;
-  position: relative;
-}
-
-.modal-header .close {
-  margin: 0;
-  position: absolute;
-  top: -10px;
-  right: -10px;
-  width: 23px;
-  height: 23px;
-  border-radius: 23px;
-  background-color: #00aeef;
-  color: #ffe300;
-  font-size: 9px;
-  opacity: 1;
-  z-index: 10;
-}
-
-.modal-content p {
-  padding: 0 20px;
-}
-
-.modal-body {
-  padding: 0 0 10px 0;
-    height: 450px;
-    overflow: auto;
-} 
-
-
-/* modal class ends */
-/* SIDE BAR 
-.sidebar {
-    position: fixed;
-    height: 132px;
-    right: 0;
-    width: 24px;
-}
-*/
-.sidebar {
-   width: 45px;
-   height: 90px;
-   position: fixed;
-   left: 0px;
-   border: 1px solid black;
+#sidebar { 
+  width: 190px; 
+  position: fixed; 
+  margin-left: 1010px;
+  border: 1px solid black; 
 }

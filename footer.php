@@ -54,11 +54,6 @@
 </div>
 
 <!--other jquery reference -->
-    <script>
-    $('.carousel').carousel({
-        interval: 5000 //changes the speed
-    })
-    </script>
 <script src="assets/js/jquery.js"></script>
 <script src="assets/js/bootstrap.js"></script>
 <script src="assets/js/product.js"></script>
@@ -70,6 +65,13 @@
 <!--script src="assets/js/scroll.js"></script-->
 <script src="assets/js/latest.js"></script>
 <script src="assets/js/googlemaps.js"></script>
+
+   <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
 <!-- end of jQuery -->
 </body>
 
